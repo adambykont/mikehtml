@@ -1,0 +1,14 @@
+.thick {
+    font-weight: bolder;
+}
+
+body {
+    background: beige;
+}
+
+div {
+    background: black;
+    color: white;
+    font-family: sans-serif;
+    padding: 0.8em;
+}
